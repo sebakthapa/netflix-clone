@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d3237b2.css",
+    "main.js": "/static/js/main.5602e017.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/cardBanner1.png": "/static/media/cardBanner1.be7cad7613df0752ec64.png",
+    "static/media/cardBanner2.png": "/static/media/cardBanner2.6c4a50b795604cb6d234.png",
+    "static/media/loginBanner.jpg": "/static/media/loginBanner.6546edd938d1ce8c0199.jpg",
+    "static/media/cardBanner3.png": "/static/media/cardBanner3.7d2dcea1799237cbe707.png",
+    "static/media/cardBanner4.png": "/static/media/cardBanner4.dd9c5549d557c1e5c000.png",
+    "static/media/The Classics 09.png": "/static/media/The Classics 09.866e128fe58c8b08c957.png",
+    "static/media/The Classics 01.png": "/static/media/The Classics 01.a9102474ab608120b9df.png",
+    "static/media/The Classics 07.png": "/static/media/The Classics 07.00ddc69c55fb7c862b8b.png",
+    "static/media/The Classics 13.png": "/static/media/The Classics 13.8f5fef6189142263fed0.png",
+    "static/media/The Classics 04.png": "/static/media/The Classics 04.9bf0465b3a9f942abb44.png",
+    "static/media/The Classics 06.png": "/static/media/The Classics 06.c8d07edb3877cd05bd99.png",
+    "static/media/The Classics 11.png": "/static/media/The Classics 11.63dac62c09a57a4ffc84.png",
+    "static/media/The Classics 14.png": "/static/media/The Classics 14.245b34280520e655e16b.png",
+    "static/media/The Classics 15.png": "/static/media/The Classics 15.4277084e0d984c1e398d.png",
+    "static/media/The Classics 16.png": "/static/media/The Classics 16.20cb0af78d1840cfdaa1.png",
+    "static/media/The Classics 12.png": "/static/media/The Classics 12.8fa3e867398f0437eee3.png",
+    "static/media/The Classics 05.png": "/static/media/The Classics 05.3379fc6971feaa3c58c2.png",
+    "static/media/The Classics 10.png": "/static/media/The Classics 10.baf6e2cf9fff548c0fb5.png",
+    "static/media/The Classics 03.png": "/static/media/The Classics 03.420f359dc9e65998d1d8.png",
+    "static/media/The Classics 08.png": "/static/media/The Classics 08.897b9deffc1b6143a933.png",
+    "static/media/The Classics 02.png": "/static/media/The Classics 02.44dab3cfcc87e7eef60e.png",
+    "static/media/netflixLogo.png": "/static/media/netflixLogo.079dc7231bf4b5236284.png",
+    "index.html": "/index.html",
+    "main.7d3237b2.css.map": "/static/css/main.7d3237b2.css.map",
+    "main.5602e017.js.map": "/static/js/main.5602e017.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3237b2.css",
+    "static/js/main.5602e017.js"
+  ]
+}
